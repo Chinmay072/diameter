@@ -5,8 +5,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 import plotly.io as pio
 import math
-from sklearn.linear_model import LinearRegression
-import joblib
+# from sklearn.linear_model import LinearRegression
+# import joblib
 import os
 
 # Set page config
